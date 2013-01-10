@@ -1,0 +1,19 @@
+
+DESOLARIZED   USAGE                     #HEX        L*A*B L     Contrast Raito (WCAG 2.0's luminosity contrast algorithm)
+-----------------------------------------------------------------------------------------------------------------------------
+base02        Background                #1b1b1b     10          
+base01        Background Highlights     #262626     15     
+content01     Comments/Secondary        #5e5e5e     40          base02 = 2.66:1 (Fail), base01 = 2.33:1 (Fail) 
+content02     Body Text/Primary         #919191     60          base02 = 5.47:1 (AA), base01 = 4.80 (AA)
+content02     Emphasized content        #9e9e9e     65          base02 = 6.43:1 (AA), base02 = 5.65:1 (AA)
+
+DESOLARIZED   USAGE                     #HEX        L*A*B L     Color Scheme Method
+-----------------------------------------------------------------------------------------------------------------------------
+yellow                                  #a39b49     63          Split Complementary Color
+orange                                  #a36e49     51          Complementary Color
+red                                     #a34951     42          Split Complementary Color
+magenta                                 #a3497e     44          Triadic Color
+violet                                  #4951a3     38          Analogous Color
+blue                                    #497ea3     50          Monochromatic Color
+cyan                                    #49a39b     61          Analogous Color
+green                                   #49a36e     60          Triadic Color
